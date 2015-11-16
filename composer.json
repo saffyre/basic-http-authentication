@@ -1,0 +1,17 @@
+{
+    "name": "saffyre/basic-http-authentication",
+    "description": "Simple Basic HTTP Authentication. No framework required.",
+    "keywords": ["basic", "http", "authentication"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alex Brombal",
+            "email": "alex.brombal@gmail.com",
+            "homepage": "http://www.brombal.com",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "files": [ "basic-http-authentication.php" ]
+    }
+}
